@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TreeNode()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ TreeNodes\n
+comment1.params=word\ spanishWord
+comment1.target=TreeNode(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getWord()
+comment3.params=
+comment3.target=java.lang.String\ getSpanishWord()
+comment4.params=
+comment4.target=TreeNode\ getLeft()
+comment5.params=
+comment5.target=TreeNode\ getRight()
+comment6.params=rightChild
+comment6.target=TreeNode\ setRightChild(TreeNode)
+comment7.params=leftChild
+comment7.target=TreeNode\ setLeftChild(TreeNode)
+comment8.params=
+comment8.target=java.lang.String\ getSummaryData()
+numComments=9
